@@ -1,3 +1,14 @@
+API_ID=              # Required - Get from https://my.telegram.org
+API_HASH=            # Required - From https://my.telegram.org
+BOT_TOKEN=           # Required - Get t.me/BotFather
+OWNER_ID=            # Required - Your Telegram user ID
+LOGGER_GROUP_ID=     # Required - Log group/channel ID
+MONGO_URL=					# Required - MongoDB connection string
+WEB_APP=
+BOT_NAME=
+BOT_USERNAME=
+LIKE_API_URL=
+LIKE_API_KEY=
 <!-- Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Moco+Bot&fontSize=60&fontAlign=50&fontAlignY=35&animation=fadeIn" />
